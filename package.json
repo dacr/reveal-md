@@ -1,6 +1,6 @@
 {
-  "name": "reveal-md",
-  "description": "reveal.js on steroids! Get beautiful reveal.js presentations from your Markdown files.",
+  "name": "reveal-md-dacrfork",
+  "description": "reveal.js on steroids! Get beautiful reveal.js presentations from your Markdown files. (dacr fork)",
   "keywords": [
     "markdown",
     "reveal",
@@ -12,7 +12,7 @@
   "version": "0.0.30",
   "repository": {
     "type": "git",
-    "url": "git://github.com/webpro/reveal-md.git"
+    "url": "git://github.com/dacr/reveal-md.git"
   },
   "bin": {
     "reveal-md": "bin/cli.js"
