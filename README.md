@@ -2,10 +2,12 @@
 
 [reveal.js](http://lab.hakim.se/reveal-js/#/) on steroids! Get beautiful reveal.js presentations from your Markdown files.
 
+**_This is just a fork with support of slides placed inside sub-directories. Published to npm with the name reveal-md-dacrfork_**
+
 ## Installation
 
 ``` bash
-npm install -g reveal-md
+npm install -g reveal-md-dacrfork
 ```
 
 ## Quick demo
